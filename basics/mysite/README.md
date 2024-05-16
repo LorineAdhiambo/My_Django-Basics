@@ -9,4 +9,7 @@
 *Added myapp to INSTALLED_APPS in settings.py
 *Created a new model in models.py
 *Made migrations using python manage.py makemigrations myapp
+*Ran migrations using python manage.py migrate
+
+
 
